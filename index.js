@@ -22,5 +22,5 @@ app.get('/courses/:id', (req, res) => {
     res.send(courseDetails)
 })
 app.listen(port, () => {
-    console.log('running on port ', port)
+    console.log(port)
 })
