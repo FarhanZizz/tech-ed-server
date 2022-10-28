@@ -1,0 +1,38 @@
+[
+    {
+        "id": "01",
+        "name": "Web Development",
+        "image": "https://i.ibb.co/bvtLJwq/pexels-olia-danilevich-4974915.jpg",
+        "description": "Web development is the work involved in developing a website for the Internet or an intranet. Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services."
+    },
+    {
+        "id": "02",
+        "name": "App Development",
+        "image": "https://i.ibb.co/NrL5ZmD/pexels-tima-miroshnichenko-5198239.jpg",
+        "description": "Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones. These software applications are designed to run on mobile devices, such as a smartphone or tablet computer."
+    },
+    {
+        "id": "03",
+        "name": "Game Development",
+        "image": "https://i.ibb.co/qNCgTF8/pexels-andrea-piacquadio-927022.jpg",
+        "description": "Game Development is the art of creating games and describes the design, development and release of a game. It may involve concept generation, design, build, test and release. While you create a game, it is important to think about the game mechanics, rewards, player engagement and level design."
+    },
+    {
+        "id": "04",
+        "name": "Graphics Design",
+        "image": "https://i.ibb.co/m8zyWLk/pexels-fauxels-3184339.jpg",
+        "description": "Graphic design is a profession, applied art and academic discipline whose activity consists in projecting visual communications intended to transmit specific messages to social groups, with specific objectives. Graphic design is an interdisciplinary branch of design and of the fine arts."
+    },
+    {
+        "id": "05",
+        "name": "Digital Marketing",
+        "image": "https://i.ibb.co/1mqPJpM/pexels-helena-lopes-1015568.jpg",
+        "description": "Digital marketing is the component of marketing that uses the Internet and online based digital technologies such as desktop computers, mobile phones and other digital media and platforms to promote products and services."
+    },
+    {
+        "id": "06",
+        "name": "Video Editing",
+        "image": "https://i.ibb.co/XFqNBs5/pexels-buro-millennial-1438081.jpg",
+        "description": "Video editing is the process of manipulating and rearranging video shots to create a new work. Editing is usually considered to be one part of the post production process — other post-production tasks include titling, colour correction, sound mixing, etc."
+    }
+]
